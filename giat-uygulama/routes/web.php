@@ -15,3 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', "GeneralController@index");
 Route::get('/test', "GeneralController@test");
+Route::get('/crypt', "GeneralController@crypt");
+Route::get('/hash', "GeneralController@hash");
