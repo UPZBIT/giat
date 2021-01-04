@@ -4,4 +4,6 @@
 ## Ders İçeriği
 
 
+## Çalıştırmak için
 
+``php artisan serve``
